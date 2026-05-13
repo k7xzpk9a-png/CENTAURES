@@ -8,6 +8,7 @@
 -->
 <script lang="ts">
   import { onMount } from 'svelte';
+  import { base } from '$app/paths';
   import { AssetResolver } from '$lib/perf/assetResolver';
   import { PerfCalculator } from '$lib/perf/perfCalculator';
   import { defaultPerfConfig } from '$lib/perf/perfConfig';
@@ -29,7 +30,7 @@
   onMount(async () => {
     try {
       const t0 = performance.now();
-      const resolver = await AssetResolver.create();
+      const resolver = await AssetResolver.create(`${base}/data`);
       registeredCount = Array.from(resolver.registeredFiles()).length;
       const calc = new PerfCalculator({ resolver });
       const engine = new PerfSnapshotEngine(calc);

@@ -1,13 +1,22 @@
 import adapter from '@sveltejs/adapter-static';
 import { vitePreprocess } from '@sveltejs/vite-plugin-svelte';
 
+// BASE_PATH is set by tools/deploy_pages.sh when building for GitHub Pages
+// (e.g. "/CENTAURES"). It must NOT have a trailing slash. Empty for local dev
+// + preview so `npm run dev` keeps serving at /.
+const BASE_PATH = process.env.BASE_PATH ?? '';
+
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
   preprocess: vitePreprocess(),
   kit: {
-    // SPA mode: everything prerenders to a static shell, unknown routes fall
-    // through to index.html so the client router can handle them. Matches the
-    // current GitHub Pages deploy model used by the Flutter app.
+    paths: {
+      base: BASE_PATH,
+    },
+    // SPA mode: everything renders client-side; unknown routes fall back to
+    // index.html so the client router can handle them. Deploy script also
+    // copies index.html → 404.html so GH Pages serves the SPA shell on
+    // direct hits to sub-routes (e.g. /m/<id>/configuration).
     adapter: adapter({
       pages: 'build',
       assets: 'build',
