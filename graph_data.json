@@ -1,0 +1,1122 @@
+{
+  "9-58_-_HOVER_IGE_AEO_MTOP_ECS_OFF_AI_OFF.png": {
+    "graphOriginX": 613,
+    "maxXValueX": 1965,
+    "graphOriginY": 2427,
+    "maxYValueY": 700,
+    "massMin": 7000.0,
+    "massMax": 12000.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 20000.0
+  },
+  "9-59_-_HOVER_IGE_AEO_MTOP_ECS_ON_AI_OFF.png": {
+    "graphOriginX": 493,
+    "maxXValueX": 1847,
+    "graphOriginY": 2335,
+    "maxYValueY": 607,
+    "massMin": 7000.0,
+    "massMax": 12000.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 20000.0
+  },
+  "9-60_-_HOVER_IGE_AEO_MTOP_ECS_OFF_AI_ON.png": {
+    "graphOriginX": 588,
+    "maxXValueX": 1987,
+    "graphOriginY": 2396,
+    "maxYValueY": 611,
+    "massMin": 7000.0,
+    "massMax": 12000.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 20000.0
+  },
+  "9-61_-_HOVER_IGE_AEO_MTOP_ECS_ON_AI_ON.png": {
+    "graphOriginX": 470,
+    "maxXValueX": 1870,
+    "graphOriginY": 2397,
+    "maxYValueY": 612,
+    "massMin": 7000.0,
+    "massMax": 12000.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 20000.0
+  },
+  "9-62_-_HOVER_IGE_AEO_MCP_ECS_OFF_AI_OFF.png": {
+    "graphOriginX": 588,
+    "maxXValueX": 1988,
+    "graphOriginY": 2396,
+    "maxYValueY": 613,
+    "massMin": 7000.0,
+    "massMax": 12000.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 20000.0
+  },
+  "9-63_-_HOVER_IGE_AEO_MCP_ECS_ON_AI_OFF.png": {
+    "graphOriginX": 470,
+    "maxXValueX": 1869,
+    "graphOriginY": 2396,
+    "maxYValueY": 613,
+    "massMin": 7000.0,
+    "massMax": 12000.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 20000.0
+  },
+  "9-64_-_HOVER_IGE_AEO_MCP_ECS_OFF_AI_ON.png": {
+    "graphOriginX": 587,
+    "maxXValueX": 1986,
+    "graphOriginY": 2396,
+    "maxYValueY": 614,
+    "massMin": 7000.0,
+    "massMax": 12000.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 20000.0
+  },
+  "9-65_-_HOVER_IGE_AEO_MCP_ECS_ON_AI_ON.png": {
+    "graphOriginX": 470,
+    "maxXValueX": 1869,
+    "graphOriginY": 2396,
+    "maxYValueY": 614,
+    "massMin": 7000.0,
+    "massMax": 12000.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 20000.0
+  },
+  "9-66_-_HOVER_IGE_OEI_LOW_ECS_OFF_AI_OFF.png": {
+    "graphOriginX": 494,
+    "maxXValueX": 1849,
+    "graphOriginY": 2325,
+    "maxYValueY": 597,
+    "massMin": 7000.0,
+    "massMax": 9500.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 10000.0
+  },
+  "9-67_-_HOVER_IGE_OEI_LOW_ECS_OFF_AI_ON.png": {
+    "graphOriginX": 587,
+    "maxXValueX": 1987,
+    "graphOriginY": 2388,
+    "maxYValueY": 601,
+    "massMin": -2000.0,
+    "massMax": 9500.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 10000.0
+  },
+  "9-68_-_HOVER_IGE_TRAINING_OEI_LOW_ECS_OFF_AI_OFF.png": {
+    "graphOriginX": 472,
+    "maxXValueX": 1871,
+    "graphOriginY": 2387,
+    "maxYValueY": 600,
+    "massMin": 7000.0,
+    "massMax": 8500.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 10000.0
+  },
+  "9-69_-_HOVER_IGE_TRAINING_OEI_LOW_ECS_ON_AI_OFF.png": {
+    "graphOriginX": 589,
+    "maxXValueX": 1988,
+    "graphOriginY": 2386,
+    "maxYValueY": 604,
+    "massMin": 7000.0,
+    "massMax": 8500.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 10000.0
+  },
+  "9-70_-_HOVER_IGE_TRAINING_OEI_LOW_ECS_OFF_AI_ON.png": {
+    "graphOriginX": 470,
+    "maxXValueX": 1873,
+    "graphOriginY": 2387,
+    "maxYValueY": 600,
+    "massMin": 7000.0,
+    "massMax": 8500.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 10000.0
+  },
+  "9-71_-_HOVER_IGE_TRAINING_OEI_LOW_ECS_ON_AI_ON.png": {
+    "graphOriginX": 587,
+    "maxXValueX": 1988,
+    "graphOriginY": 2386,
+    "maxYValueY": 602,
+    "massMin": 7000.0,
+    "massMax": 8500.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 10000.0
+  },
+  "9-72_-_HOVER_OGE_AEO_MTOP_ECS_OFF_AI_OFF.png": {
+    "graphOriginX": 493,
+    "maxXValueX": 1847,
+    "graphOriginY": 2427,
+    "maxYValueY": 699,
+    "massMin": 7000.0,
+    "massMax": 12000.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 20000.0
+  },
+  "9-73_-_HOVER_OGE_AEO_MTOP_ECS_ON_AI_OFF.png": {
+    "graphOriginX": 612,
+    "maxXValueX": 1963,
+    "graphOriginY": 2336,
+    "maxYValueY": 609,
+    "massMin": 7000.0,
+    "massMax": 12000.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 20000.0
+  },
+  "9-74_-_HOVER_OGE_AEO_MTOP_ECS_OFF_AI_ON.png": {
+    "graphOriginX": 470,
+    "maxXValueX": 1868,
+    "graphOriginY": 2394,
+    "maxYValueY": 612,
+    "massMin": 7000.0,
+    "massMax": 12000.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 20000.0
+  },
+  "9-75_-_HOVER_OGE_AEO_MTOP_ECS_ON_AI_ON.png": {
+    "graphOriginX": 587,
+    "maxXValueX": 1988,
+    "graphOriginY": 2396,
+    "maxYValueY": 614,
+    "massMin": 2000.0,
+    "massMax": 12000.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 20000.0
+  },
+  "9-76_-_HOVER_OGE_AEO_MCP_ECS_OFF_AI_OFF.png": {
+    "graphOriginX": 468,
+    "maxXValueX": 1867,
+    "graphOriginY": 2395,
+    "maxYValueY": 613,
+    "massMin": 7000.0,
+    "massMax": 12000.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 20000.0
+  },
+  "9-77_-_HOVER_OGE_AEO_MCP_ECS_ON_AI_OFF.png": {
+    "graphOriginX": 589,
+    "maxXValueX": 1986,
+    "graphOriginY": 2397,
+    "maxYValueY": 612,
+    "massMin": 7000.0,
+    "massMax": 12000.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 20000.0
+  },
+  "9-78_-_HOVER_OGE_AEO_MCP_ECS_OFF_AI_ON.png": {
+    "graphOriginX": 468,
+    "maxXValueX": 1868,
+    "graphOriginY": 2395,
+    "maxYValueY": 611,
+    "massMin": 7000.0,
+    "massMax": 12000.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 20000.0
+  },
+  "9-79_-_HOVER_OGE_AEO_MCP_ECS_ON_AI_ON.png": {
+    "graphOriginX": 589,
+    "maxXValueX": 1986,
+    "graphOriginY": 2395,
+    "maxYValueY": 614,
+    "massMin": 7000.0,
+    "massMax": 12000.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 20000.0
+  },
+  "9-80_-_HOVER_OGE_OEI_LOW_ECS_OFF_AI_OFF.png": {
+    "graphOriginX": 611,
+    "maxXValueX": 1964,
+    "graphOriginY": 2328,
+    "maxYValueY": 596,
+    "massMin": 7000.0,
+    "massMax": 8500.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 10000.0
+  },
+  "9-81_-_HOVER_OGE_OEI_LOW_ECS_OFF_AI_ON.png": {
+    "graphOriginX": 469,
+    "maxXValueX": 1870,
+    "graphOriginY": 2388,
+    "maxYValueY": 601,
+    "massMin": 7000.0,
+    "massMax": 8500.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 10000.0
+  },
+  "9-82_-_HOVER_IGE_AEO_MTOP_IPS_ON_BEFORE_ICING_ECS_ON_AI_ON.png": {
+    "graphOriginX": 611,
+    "maxXValueX": 1966,
+    "graphOriginY": 2426,
+    "maxYValueY": 699,
+    "massMin": 7000.0,
+    "massMax": 12000.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 20000.0
+  },
+  "9-83_-_HOVER_IGE_AEO_MTOP_IPS_ON_AFTER_ICING_+5_ECS_ON_AI_ON.png": {
+    "graphOriginX": 492,
+    "maxXValueX": 1848,
+    "graphOriginY": 2336,
+    "maxYValueY": 608,
+    "massMin": 7000.0,
+    "massMax": 12000.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 20000.0
+  },
+  "9-84_-_HOVER_IGE_AEO_MTOP_IPS_OFF_AFTER_ICING_+5_+15_ECS_ON_AI_OFF.png": {
+    "graphOriginX": 590,
+    "maxXValueX": 1988,
+    "graphOriginY": 2438,
+    "maxYValueY": 656,
+    "massMin": 7000.0,
+    "massMax": 12000.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 20000.0
+  },
+  "9-85_-_HOVER_IGE_OEI_LOW_IPS_ON_BEFORE_ICING_ECS_OFF_AI_ON.png": {
+    "graphOriginX": 493,
+    "maxXValueX": 1846,
+    "graphOriginY": 2427,
+    "maxYValueY": 699,
+    "massMin": 7000.0,
+    "massMax": 9500.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 10000.0
+  },
+  "9-86_-_HOVER_IGE_OEI_LOW_IPS_ON_AFTER_ICING_+5_ECS_OFF_AI_ON.png": {
+    "graphOriginX": 611,
+    "maxXValueX": 1964,
+    "graphOriginY": 2333,
+    "maxYValueY": 607,
+    "massMin": 7000.0,
+    "massMax": 9500.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 10000.0
+  },
+  "9-87_-_HOVER_IGE_OEI_LOW_IPS_OFF_AFTER_ICING_+5_+15_ECS_OFF_AI_OFF.png": {
+    "graphOriginX": 469,
+    "maxXValueX": 1868,
+    "graphOriginY": 2437,
+    "maxYValueY": 652,
+    "massMin": 7000.0,
+    "massMax": 9000.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 10000.0
+  },
+  "9-89_-_HOVER_OGE_AEO_MTOP_IPS_ON_AFTER_ICING_+5_ECS_ON_AI_ON.png": {
+    "graphOriginX": 492,
+    "maxXValueX": 1846,
+    "graphOriginY": 2335,
+    "maxYValueY": 608,
+    "massMin": 7000.0,
+    "massMax": 12000.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 20000.0
+  },
+  "9-90_-_HOVER_OGE_AEO_MTOP_IPS_OFF_AFTER_ICING_+5_+15_ECS_ON_AI_OFF.png": {
+    "graphOriginX": 588,
+    "maxXValueX": 1985,
+    "graphOriginY": 2439,
+    "maxYValueY": 654,
+    "massMin": 7000.0,
+    "massMax": 12000.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 20000.0
+  },
+  "9-91_-_HOVER_OGE_OEI_LOW_IPS_ON_BEFORE_ICING_ECS_OFF_AI_ON.png": {
+    "graphOriginX": 493,
+    "maxXValueX": 1848,
+    "graphOriginY": 2427,
+    "maxYValueY": 699,
+    "massMin": 7000.0,
+    "massMax": 8400.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 10000.0
+  },
+  "9-92_-_HOVER_OGE_OEI_LOW_IPS_ON_AFTER_ICING_+5_ECS_OFF_AI_ON.png": {
+    "graphOriginX": 612,
+    "maxXValueX": 1963,
+    "graphOriginY": 2337,
+    "maxYValueY": 607,
+    "massMin": 7000.0,
+    "massMax": 8500.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 8000.0
+  },
+  "9-93_-_HOVER_OGE_OEI_LOW_IPS_OFF_AFTER_ICING_+5_+15_ECS_OFF_AI_OFF.png": {
+    "graphOriginX": 470,
+    "maxXValueX": 1869,
+    "graphOriginY": 2438,
+    "maxYValueY": 654,
+    "massMin": 7000.0,
+    "massMax": 8500.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 8000.0
+  },
+  "9-94_-_HOVER_IGE_AEO_MTOP_ASF_ECS_OFF_AI_OFF.png": {
+    "graphOriginX": 612,
+    "maxXValueX": 1963,
+    "graphOriginY": 2427,
+    "maxYValueY": 699,
+    "massMin": 7000.0,
+    "massMax": 12000.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 20000.0
+  },
+  "9-95_-_HOVER_IGE_AEO_MTOP_ASF_ECS_ON_AI_OFF.png": {
+    "graphOriginX": 493,
+    "maxXValueX": 1846,
+    "graphOriginY": 2337,
+    "maxYValueY": 609,
+    "massMin": 7000.0,
+    "massMax": 12000.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 20000.0
+  },
+  "9-96_-_HOVER_IGE_AEO_MTOP_ASF_ECS_OFF_AI_ON.png": {
+    "graphOriginX": 589,
+    "maxXValueX": 1985,
+    "graphOriginY": 2396,
+    "maxYValueY": 611,
+    "massMin": 7000.0,
+    "massMax": 12000.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 20000.0
+  },
+  "9-97_-_HOVER_IGE_AEO_MTOP_ASF_ECS_ON_AI_ON.png": {
+    "graphOriginX": 468,
+    "maxXValueX": 1867,
+    "graphOriginY": 2396,
+    "maxYValueY": 612,
+    "massMin": 7000.0,
+    "massMax": 12000.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 20000.0
+  },
+  "9-98_-_HOVER_IGE_AEO_MCP_ASF_ECS_OFF_AI_OFF.png": {
+    "graphOriginX": 586,
+    "maxXValueX": 1987,
+    "graphOriginY": 2446,
+    "maxYValueY": 662,
+    "massMin": 7000.0,
+    "massMax": 12000.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 20000.0
+  },
+  "9-99_-_HOVER_IGE_AEO_MCP_ASF_ECS_ON_AI_OFF.png": {
+    "graphOriginX": 469,
+    "maxXValueX": 1867,
+    "graphOriginY": 2446,
+    "maxYValueY": 661,
+    "massMin": 7000.0,
+    "massMax": 12000.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 20000.0
+  },
+  "9-100_-_HOVER_IGE_AEO_MCP_ASF_ECS_OFF_AI_ON.png": {
+    "graphOriginX": 586,
+    "maxXValueX": 1986,
+    "graphOriginY": 2446,
+    "maxYValueY": 661,
+    "massMin": 7000.0,
+    "massMax": 12000.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 20000.0
+  },
+  "9-101_-_HOVER_IGE_AEO_MCP_ASF_ECS_ON_AI_ON.png": {
+    "graphOriginX": 469,
+    "maxXValueX": 1868,
+    "graphOriginY": 2446,
+    "maxYValueY": 663,
+    "massMin": 7000.0,
+    "massMax": 12000.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 20000.0
+  },
+  "9-102_-_HOVER_IGE_OEI_LOW_ASF_ECS_OFF_AI_OFF.png": {
+    "graphOriginX": 493,
+    "maxXValueX": 1848,
+    "graphOriginY": 2326,
+    "maxYValueY": 598,
+    "massMin": 7000.0,
+    "massMax": 9500.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 10000.0
+  },
+  "9-103_-_HOVER_IGE_OEI_LOW_ASF_ECS_OFF_AI_ON.png": {
+    "graphOriginX": 586,
+    "maxXValueX": 1986,
+    "graphOriginY": 2389,
+    "maxYValueY": 602,
+    "massMin": 7000.0,
+    "massMax": 9500.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 10000.0
+  },
+  "9-104_-_HOVER_IGE_TRAINING_OEI_LOW_ASF_ECS_OFF_AI_OFF.png": {
+    "graphOriginX": 471,
+    "maxXValueX": 1868,
+    "graphOriginY": 2437,
+    "maxYValueY": 649,
+    "massMin": 7000.0,
+    "massMax": 8500.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 10000.0
+  },
+  "9-105_-_HOVER_IGE_TRAINING_OEI_LOW_ASF_ECS_ON_AI_OFF.png": {
+    "graphOriginX": 587,
+    "maxXValueX": 1988,
+    "graphOriginY": 2437,
+    "maxYValueY": 652,
+    "massMin": 7000.0,
+    "massMax": 8500.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 10000.0
+  },
+  "9-106_-_HOVER_IGE_TRAINING_OEI_LOW_ASF_ECS_OFF_AI_ON.png": {
+    "graphOriginX": 469,
+    "maxXValueX": 1870,
+    "graphOriginY": 2437,
+    "maxYValueY": 652,
+    "massMin": 7000.0,
+    "massMax": 8500.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 10000.0
+  },
+  "9-107_-_HOVER_IGE_TRAINING_OEI_LOW_ASF_ECS_ON_AI_ON.png": {
+    "graphOriginX": 589,
+    "maxXValueX": 1984,
+    "graphOriginY": 2437,
+    "maxYValueY": 650,
+    "massMin": 7000.0,
+    "massMax": 8500.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 10000.0
+  },
+  "9-108_-_HOVER_OGE_AEO_MTOP_ASF_ECS_OFF_AI_OFF.png": {
+    "graphOriginX": 494,
+    "maxXValueX": 1845,
+    "graphOriginY": 2427,
+    "maxYValueY": 697,
+    "massMin": 7000.0,
+    "massMax": 12000.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 20000.0
+  },
+  "9-109_-_HOVER_OGE_AEO_MTOP_ASF_ECS_ON_AI_OFF.png": {
+    "graphOriginX": 609,
+    "maxXValueX": 1964,
+    "graphOriginY": 2335,
+    "maxYValueY": 607,
+    "massMin": 7000.0,
+    "massMax": 12000.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 20000.0
+  },
+  "9-110_-_HOVER_OGE_AEO_MTOP_ASF_ECS_OFF_AI_ON.png": {
+    "graphOriginX": 469,
+    "maxXValueX": 1868,
+    "graphOriginY": 2394,
+    "maxYValueY": 612,
+    "massMin": 7000.0,
+    "massMax": 12000.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 20000.0
+  },
+  "9-111_-_HOVER_OGE_AEO_MTOP_ASF_ECS_ON_AI_ON.png": {
+    "graphOriginX": 587,
+    "maxXValueX": 1988,
+    "graphOriginY": 2397,
+    "maxYValueY": 614,
+    "massMin": 7000.0,
+    "massMax": 12000.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 20000.0
+  },
+  "9-112_-_HOVER_OGE_AEO_MCP_ASF_ECS_OFF_AI_OFF.png": {
+    "graphOriginX": 471,
+    "maxXValueX": 1866,
+    "graphOriginY": 2444,
+    "maxYValueY": 661,
+    "massMin": 7000.0,
+    "massMax": 12000.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 20000.0
+  },
+  "9-113_-_HOVER_OGE_AEO_MCP_ASF_ECS_ON_AI_OFF.png": {
+    "graphOriginX": 589,
+    "maxXValueX": 1986,
+    "graphOriginY": 2447,
+    "maxYValueY": 663,
+    "massMin": 7000.0,
+    "massMax": 12000.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 20000.0
+  },
+  "9-114_-_HOVER_OGE_AEO_MCP_ASF_ECS_OFF_AI_ON.png": {
+    "graphOriginX": 467,
+    "maxXValueX": 1867,
+    "graphOriginY": 2448,
+    "maxYValueY": 662,
+    "massMin": 7000.0,
+    "massMax": 12000.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 20000.0
+  },
+  "9-115_-_HOVER_OGE_AEO_MCP_ASF_ECS_OFF_AI_ON.png": {
+    "graphOriginX": 587,
+    "maxXValueX": 1990,
+    "graphOriginY": 2444,
+    "maxYValueY": 659,
+    "massMin": 7000.0,
+    "massMax": 12000.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 20000.0
+  },
+  "9-116_-_HOVER_OGE_OEI_LOW_ASF_ECS_OFF_AI_OFF.png": {
+    "graphOriginX": 609,
+    "maxXValueX": 1964,
+    "graphOriginY": 2325,
+    "maxYValueY": 595,
+    "massMin": 7000.0,
+    "massMax": 8500.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 10000.0
+  },
+  "9-117_-_HOVER_OGE_OEI_LOW_ASF_ECS_OFF_AI_ON.png": {
+    "graphOriginX": 470,
+    "maxXValueX": 1870,
+    "graphOriginY": 2389,
+    "maxYValueY": 599,
+    "massMin": 7000.0,
+    "massMax": 8500.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 10000.0
+  },
+  "9-118_-_HOVER_IGE_AEO_MTOP_IPS_ON_BEFORE_ICING_ASF_ECS_ON_AI_ON.png": {
+    "graphOriginX": 611,
+    "maxXValueX": 1964,
+    "graphOriginY": 2467,
+    "maxYValueY": 740,
+    "massMin": 7000.0,
+    "massMax": 12000.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 20000.0
+  },
+  "9-119_-_HOVER_IGE_AEO_MTOP_IPS_ON_AFTER_ICING_+5_ASF_ECS_ON_AI_ON.png": {
+    "graphOriginX": 494,
+    "maxXValueX": 1846,
+    "graphOriginY": 2376,
+    "maxYValueY": 648,
+    "massMin": 7000.0,
+    "massMax": 12000.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 20000.0
+  },
+  "9-120_-_HOVER_IGE_AEO_MTOP_IPS_OFF_AFTER_ICING_+5_+15_ASF_ECS_ON_AI_OFF.png": {
+    "graphOriginX": 588,
+    "maxXValueX": 1985,
+    "graphOriginY": 2446,
+    "maxYValueY": 657,
+    "massMin": 7000.0,
+    "massMax": 12000.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 20000.0
+  },
+  "9-121_-_HOVER_IGE_OEI_LOW_IPS_ON_BEFORE_ICING_ASF_ECS_OFF_AI_ON.png": {
+    "graphOriginX": 493,
+    "maxXValueX": 1844,
+    "graphOriginY": 2464,
+    "maxYValueY": 743,
+    "massMin": 7000.0,
+    "massMax": 9500.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 10000.0
+  },
+  "9-122_-_HOVER_IGE_OEI_LOW_IPS_ON_AFTER_ICING_+5_ASF_ECS_OFF_AI_ON.png": {
+    "graphOriginX": 611,
+    "maxXValueX": 1964,
+    "graphOriginY": 2377,
+    "maxYValueY": 651,
+    "massMin": 7000.0,
+    "massMax": 9500.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 10000.0
+  },
+  "9-123_-_HOVER_IGE_OEI_LOW_IPS_OFF_AFTER_ICING_+5_+15_ASF_ECS_OFF_AI_OFF.png": {
+    "graphOriginX": 468,
+    "maxXValueX": 1869,
+    "graphOriginY": 2434,
+    "maxYValueY": 651,
+    "massMin": 7000.0,
+    "massMax": 9500.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 10000.0
+  },
+  "9-124_-_HOVER_OGE_AEO_MTOP_IPS_ON_BEFORE_ICING_ASF_ECS_ON_AI_ON.png": {
+    "graphOriginX": 611,
+    "maxXValueX": 1964,
+    "graphOriginY": 2480,
+    "maxYValueY": 748,
+    "massMin": 7000.0,
+    "massMax": 12000.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 20000.0
+  },
+  "9-125_-_HOVER_OGE_AEO_MTOP_IPS_ON_AFTER_ICING_+5_ASF_ECS_ON_AI_ON.png": {
+    "graphOriginX": 491,
+    "maxXValueX": 1847,
+    "graphOriginY": 2382,
+    "maxYValueY": 656,
+    "massMin": 7000.0,
+    "massMax": 12000.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 20000.0
+  },
+  "9-126_-_HOVER_OGE_AEO_MTOP_IPS_OFF_ASF_ECS_ON_AI_OFF.png": {
+    "graphOriginX": 590,
+    "maxXValueX": 1988,
+    "graphOriginY": 2446,
+    "maxYValueY": 662,
+    "massMin": 7000.0,
+    "massMax": 12000.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 20000.0
+  },
+  "9-127_-_HOVER_OGE_OEI_LOW_IPS_ON_BEFORE_ICING_ASF_ECS_OFF_AI_ON.png": {
+    "graphOriginX": 494,
+    "maxXValueX": 1843,
+    "graphOriginY": 2478,
+    "maxYValueY": 750,
+    "massMin": 7000.0,
+    "massMax": 8400.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 10000.0
+  },
+  "9-128_-_HOVER_OGE_OEI_LOW_IPS_ON_AFTER_ICING_+5_ASF_ECS_OFF_AI_ON.png": {
+    "graphOriginX": 612,
+    "maxXValueX": 1964,
+    "graphOriginY": 2378,
+    "maxYValueY": 648,
+    "massMin": 7000.0,
+    "massMax": 8500.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 8000.0
+  },
+  "9-129_-_HOVER_OGE_OEI_LOW_IPS_OFF_ASF_ECS_OFF_AI_OFF.png": {
+    "graphOriginX": 469,
+    "maxXValueX": 1869,
+    "graphOriginY": 2435,
+    "maxYValueY": 653,
+    "massMin": 7000.0,
+    "massMax": 8500.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 10000.0
+  },
+  "9-135_-_RATE_OF_CLIMB_AEO_MTOP_45KT_ECS_OFF_AI_OFF_0.png": {
+
+    "oatMin": -40.0, "oatMax": 50.0,
+    "oatOriginX": 452, "oatMaxX": 1196,
+
+    "transferMin": 1103, "transferMax": 16832,
+    "transferOriginY": 2288, "transferMaxY": 697,
+
+    "rocMin": -2000, "rocMax": 8000.0,
+    "rocOriginX": 1243, "rocMaxX": 1934
+  },
+  "9-131_-_RATE_OF_CLIMB_AEO_MCP_80KT_ECS_OFF_AI_OFF_0.png": {
+
+    "oatMin": -40.0, "oatMax": 50.0,
+    "oatOriginX": 473, "oatMaxX": 1195,
+
+    "transferMin": 903, "transferMax": 16011,
+    "transferOriginY": 2256, "transferMaxY": 769,
+
+    "rocMin": -1000, "rocMax": 7000.0,
+    "rocOriginX": 1242, "rocMaxX": 1907
+  },
+  "9-132_-_RATE_OF_CLIMB_AEO_MCP_80KT_ECS_ON_AI_OFF_1.png": {
+
+    "oatMin": -40.0, "oatMax": 50.0,
+    "oatOriginX": 571, "oatMaxX": 1315,
+
+    "transferMin": 903, "transferMax": 13668,
+    "transferOriginY": 2290, "transferMaxY": 721,
+
+    "rocMin": -1000, "rocMax": 6000.0,
+    "rocOriginX": 1364, "rocMaxX": 2053
+  },
+  "9-133_-_RATE_OF_CLIMB_AEO_MCP_80KT_ECS_OFF_AI_ON_1.png": {
+
+    "oatMin": -40.0, "oatMax": 50.0,
+    "oatOriginX": 450, "oatMaxX": 1199,
+
+    "transferMin": 903, "transferMax": 15013,
+    "transferOriginY": 2308, "transferMaxY": 783,
+
+    "rocMin": -1000, "rocMax": 7000.0,
+    "rocOriginX": 1244, "rocMaxX": 1932
+  },
+  "9-134_-_RATE_OF_CLIMB_AEO_MCP_80KT_ECS_ON_AI_ON_0.png": {
+
+    "oatMin": -40.0, "oatMax": 50.0,
+    "oatOriginX": 571, "oatMaxX": 1313,
+
+    "transferMin": 903, "transferMax": 12674,
+    "transferOriginY": 2286, "transferMaxY": 720,
+
+    "rocMin": -1000, "rocMax": 6000.0,
+    "rocOriginX": 1361, "rocMaxX": 2052
+  },
+  "9-136_-_RATE_OF_CLIMB_AEO_MTOP_45KT_ECS_ON_AI_OFF_0.png": {
+
+    "oatMin": -40.0, "oatMax": 50.0,
+    "oatOriginX": 571, "oatMaxX": 1315,
+
+    "transferMin": 1103, "transferMax": 14537,
+    "transferOriginY": 2276, "transferMaxY": 732,
+
+    "rocMin": -2000, "rocMax": 7000.0,
+    "rocOriginX": 1361, "rocMaxX": 2050
+  },
+  "9-137_-_RATE_OF_CLIMB_AEO_MTOP_45KT_ECS_OFF_AI_ON_1.png": {
+
+    "oatMin": -40.0, "oatMax": 50.0,
+    "oatOriginX": 449, "oatMaxX": 1197,
+
+    "transferMin": 1103, "transferMax": 15802,
+    "transferOriginY": 2284, "transferMaxY": 698,
+
+    "rocMin": -2000, "rocMax": 8000.0,
+    "rocOriginX": 1244, "rocMaxX": 1931
+  },
+  "9-138_-_RATE_OF_CLIMB_AEO_MTOP_45KT_ECS_ON_AI_ON_1.png": {
+
+    "oatMin": -40.0, "oatMax": 50.0,
+    "oatOriginX": 570, "oatMaxX": 1316,
+
+    "transferMin": 1103, "transferMax": 13395,
+    "transferOriginY": 2268, "transferMaxY": 754,
+
+    "rocMin": -2000, "rocMax": 7000.0,
+    "rocOriginX": 1363, "rocMaxX": 2052
+  },
+  "9-147_-_RATE_OF_CLIMB_AEO_MTOP_75KT_ECS_OFF_AI_OFF_0.png": {
+
+    "oatMin": -40.0, "oatMax": 50.0,
+    "oatOriginX": 450, "oatMaxX": 1199,
+
+    "transferMin": 919, "transferMax": 17703,
+    "transferOriginY": 2317, "transferMaxY": 708,
+
+    "rocMin": -1000, "rocMax": 8000.0,
+    "rocOriginX": 1242, "rocMaxX": 1934
+  },
+  "9-148_-_RATE_OF_CLIMB_AEO_MTOP_75KT_ECS_ON_AI_OFF_1.png": {
+
+    "oatMin": -40.0, "oatMax": 50.0,
+    "oatOriginX": 568, "oatMaxX": 1316,
+
+    "transferMin": 919, "transferMax": 15279,
+    "transferOriginY": 2305, "transferMaxY": 759,
+
+    "rocMin": -1000, "rocMax": 7000.0,
+    "rocOriginX": 1363, "rocMaxX": 2050
+  },
+  "9-149_-_RATE_OF_CLIMB_AEO_MTOP_75KT_ECS_OFF_AI_ON_0.png": {
+
+    "oatMin": -40.0, "oatMax": 50.0,
+    "oatOriginX": 453, "oatMaxX": 1196,
+
+    "transferMin": 919, "transferMax": 16496,
+    "transferOriginY": 2312, "transferMaxY": 732,
+
+    "rocMin": -1000, "rocMax": 8000.0,
+    "rocOriginX": 1244, "rocMaxX": 1932
+  },
+  "9-150_-_RATE_OF_CLIMB_AEO_MTOP_75KT_ECS_ON_AI_ON_1.png": {
+
+    "oatMin": -40.0, "oatMax": 50.0,
+    "oatOriginX": 571, "oatMaxX": 1315,
+
+    "transferMin": 919, "transferMax": 14275,
+    "transferOriginY": 2297, "transferMaxY": 765,
+
+    "rocMin": -1000, "rocMax": 6500.0,
+    "rocOriginX": 1361, "rocMaxX": 2052
+  },
+  "9-152_-_RATE_OF_CLIMB_OEI_MCP_80KT_ECS_OFF_AI_OFF_0.png": {
+
+    "oatMin": -40.0, "oatMax": 50.0,
+    "oatOriginX": 593, "oatMaxX": 1316,
+
+    "transferMin": 1083, "transferMax": 15954,
+    "transferOriginY": 2244, "transferMaxY": 858,
+
+    "rocMin": -1500, "rocMax": 3000.0,
+    "rocOriginX": 1361, "rocMaxX": 2026
+  },
+  "9-154_-_RATE_OF_CLIMB_OEI_MCP_80KT_ECS_OFF_AI_ON_1.png": {
+
+    "oatMin": -40.0, "oatMax": 50.0,
+    "oatOriginX": 570, "oatMaxX": 1317,
+
+    "transferMin": 1083, "transferMax": 14937,
+    "transferOriginY": 2284, "transferMaxY": 794,
+
+    "rocMin": -1500, "rocMax": 2500.0,
+    "rocOriginX": 1362, "rocMaxX": 2050
+  },
+  "9-172_-_RATE_OF_CLIMB_OEI_LOW_80KT_ECS_OFF_AI_OFF_0.png": {
+
+    "oatMin": -40.0, "oatMax": 50.0,
+    "oatOriginX": 569, "oatMaxX": 1313,
+
+    "transferMin": 1445, "transferMax": 13703,
+    "transferOriginY": 2230, "transferMaxY": 717,
+
+    "rocMin": -1500, "rocMax": 3000.0,
+    "rocOriginX": 1361, "rocMaxX": 2052
+  },
+  "9-173_-_RATE_OF_CLIMB_OEI_LOW_80KT_ECS_OFF_AI_ON_0.png": {
+
+    "oatMin": -40.0, "oatMax": 50.0,
+    "oatOriginX": 452, "oatMaxX": 1197,
+
+    "transferMin": 1445, "transferMax": 12798,
+    "transferOriginY": 2228, "transferMaxY": 825,
+
+    "rocMin": -1500, "rocMax": 3000.0,
+    "rocOriginX": 1245, "rocMaxX": 1934
+  },
+  "9-174_-_RATE_OF_CLIMB_OEI_LOW_45KT_ECS_OFF_AI_OFF_0.png": {
+
+    "oatMin": -40.0, "oatMax": 50.0,
+    "oatOriginX": 569, "oatMaxX": 1314,
+
+    "transferMin": 1445, "transferMax": 13776,
+    "transferOriginY": 2230, "transferMaxY": 705,
+
+    "rocMin": -2000, "rocMax": 3000.0,
+    "rocOriginX": 1360, "rocMaxX": 2052
+  },
+  "9-175_-_RATE_OF_CLIMB_OEI_LOW_45KT_ECS_OFF_AI_ON_0.png": {
+
+    "oatMin": -40.0, "oatMax": 50.0,
+    "oatOriginX": 453, "oatMaxX": 1198,
+
+    "transferMin": 1445, "transferMax": 12869,
+    "transferOriginY": 2226, "transferMaxY": 820,
+
+    "rocMin": -2500, "rocMax": 3000.0,
+    "rocOriginX": 1242, "rocMaxX": 1934
+  },
+  "9-182_-_RATE_OF_CLIMB_TRAINING_OEI_MCP_80KT_ECS_OFF_AI_OFF_1.png": {
+
+    "oatMin": -40.0, "oatMax": 50.0,
+    "oatOriginX": 570, "oatMaxX": 1316,
+
+    "transferMin": 1288, "transferMax": 12888,
+    "transferOriginY": 2245, "transferMaxY": 817,
+
+    "rocMin": -1750, "rocMax": 1750.0,
+    "rocOriginX": 1360, "rocMaxX": 2052
+  },
+  "9-202_-_RATE_OF_CLIMB_TRAINING_OEI_LOW_80KT_ECS_OFF_AI_OFF_0.png": {
+
+    "oatMin": -40.0, "oatMax": 50.0,
+    "oatOriginX": 570, "oatMaxX": 1316,
+
+    "transferMin": 870, "transferMax": 11323,
+    "transferOriginY": 2280, "transferMaxY": 774,
+
+    "rocMin": -2000, "rocMax": 2500.0,
+    "rocOriginX": 1365, "rocMaxX": 2050
+  },
+  "9-206_-_RATE_OF_CLIMB_TRAINING_OEI_LOW_45KT_ECS_OFF_AI_OFF_1.png": {
+
+    "oatMin": -40.0, "oatMax": 50.0,
+    "oatOriginX": 570, "oatMaxX": 1313,
+
+    "transferMin": 1870, "transferMax": 12373,
+    "transferOriginY": 2161, "transferMaxY": 760,
+
+    "rocMin": -2500, "rocMax": 2500.0,
+    "rocOriginX": 1362, "rocMaxX": 2052
+  },
+  "9-9_-_HEIGHT_LOSS_ECS_OFF_AI_OFF_2.png": {
+
+    "oatMin": -40.0, "oatMax": 50.0,
+    "oatOriginX": 450, "oatMaxX": 1161,
+
+    "transferMin": 1557.0, "transferMax": 2074.0,
+    "transferOriginY": 2301, "transferMaxY": 1666,
+
+    "hlOneMin": 0.0, "hlOneMax": 1100.0,
+    "hlOneOriginX": 1209, "hlOneMaxX": 1960,
+
+    "heightLossMin": 12.0, "heightLossMax": 346.0,
+    "heightLossOriginY": 1470, "heightLossMaxY": 826
+  },
+  "9-10_-_HEIGHT_LOSS_TRAINING_ECS_ON_AI_OFF_2.png": {
+
+    "oatMin": -40.0, "oatMax": 50.0,
+    "oatOriginX": 544, "oatMaxX": 1280,
+
+    "transferMin": 1368.0, "transferMax": 1702.0,
+    "transferOriginY": 2361, "transferMaxY": 1704,
+
+    "hlOneMin": 0.0, "hlOneMax": 1100.0,
+    "hlOneOriginX": 1330, "hlOneMaxX": 2104,
+
+    "heightLossMin": 12.0, "heightLossMax": 346.0,
+    "heightLossOriginY": 1529, "heightLossMaxY": 740
+  },
+  "9-11_-_HEIGHT_LOSS_TRAINING_ECS_OFF_AI_ON_1.png": {
+
+    "oatMin": -40.0, "oatMax": 50.0,
+    "oatOriginX": 424, "oatMaxX": 1161,
+
+    "transferMin": 1320.0, "transferMax": 1759.0,
+    "transferOriginY": 2381, "transferMaxY": 1766,
+
+    "hlOneMin": 0.0, "hlOneMax": 1100.0,
+    "hlOneOriginX": 1212, "hlOneMaxX": 1986,
+
+    "heightLossMin": 12.0, "heightLossMax": 346.0,
+    "heightLossOriginY": 1529, "heightLossMaxY": 738
+  },
+  "9-12_-_HEIGHT_LOSS_ECS_ON_AI_ON_1.png": {
+
+    "oatMin": -40.0, "oatMax": 50.0,
+    "oatOriginX": 544, "oatMaxX": 1278,
+
+    "transferMin": 1543.0, "transferMax": 2024.0,
+    "transferOriginY": 2394, "transferMaxY": 1765,
+
+    "hlOneMin": 0.0, "hlOneMax": 1100.0,
+    "hlOneOriginX": 1329, "hlOneMaxX": 2104,
+
+    "heightLossMin": 12.0, "heightLossMax": 346.0,
+    "heightLossOriginY": 1529, "heightLossMaxY": 737
+  },
+  "9-14_-_HEIGHT_LOSS_ASF_ECS_OFF_AI_OFF_2.png": {
+
+    "oatMin": -40.0, "oatMax": 50.0,
+    "oatOriginX": 566, "oatMaxX": 1281,
+
+    "transferMin": 1345.0, "transferMax": 2076.0,
+    "transferOriginY": 2377, "transferMaxY": 1748,
+
+    "trainingTransferMin": 1345.0, "trainingTransferMax": 2076.0,
+    "trainingTransferOriginY": 2612, "trainingTransferMaxY": 2080,
+
+    "hlOneMin": 0.0, "hlOneMax": 1100.0,
+    "hlOneOriginX": 1329, "hlOneMaxX": 2077,
+
+    "heightLossMin": 12.0, "heightLossMax": 346.0,
+    "heightLossOriginY": 1522, "heightLossMaxY": 882
+  },
+  "9-15_-_HEIGHT_LOSS_TRAINING_ASF_ECS_ON_AI_OFF_2.png": {
+
+    "oatMin": -40.0, "oatMax": 50.0,
+    "oatOriginX": 424, "oatMaxX": 1162,
+
+    "transferMin": 1345.0, "transferMax": 2076.0,
+    "transferOriginY": 2440, "transferMaxY": 1792,
+
+    "trainingTransferMin": 1345.0, "trainingTransferMax": 2076.0,
+    "trainingTransferOriginY": 2680, "trainingTransferMaxY": 2225,
+
+    "hlOneMin": 0.0, "hlOneMax": 1100.0,
+    "hlOneOriginX": 1210, "hlOneMaxX": 1985,
+
+    "heightLossMin": 12.0, "heightLossMax": 346.0,
+    "heightLossOriginY": 1554, "heightLossMaxY": 892
+  },
+  "9-16_-_HEIGHT_LOSS_TRAINING_ASF_ECS_OFF_AI_ON_0.png": {
+
+    "oatMin": -40.0, "oatMax": 50.0,
+    "oatOriginX": 545, "oatMaxX": 1281,
+
+    "transferMin": 1345.0, "transferMax": 2076.0,
+    "transferOriginY": 2428, "transferMaxY": 1814,
+
+    "trainingTransferMin": 1320.0, "trainingTransferMax": 2076.0,
+    "trainingTransferOriginY": 2678, "trainingTransferMaxY": 2152,
+
+    "hlOneMin": 65.0, "hlOneMax": 1100.0,
+    "hlOneOriginX": 1329, "hlOneMaxX": 2104,
+
+    "heightLossMin": 12.0, "heightLossMax": 346.0,
+    "heightLossOriginY": 1556, "heightLossMaxY": 896
+  },
+  "9-17_-_HEIGHT_LOSS_ASF_ECS_ON_AI_ON_2.png": {
+
+    "oatMin": -40.0, "oatMax": 50.0,
+    "oatOriginX": 424, "oatMaxX": 1162,
+
+    "transferMin": 1345.0, "transferMax": 2076.0,
+    "transferOriginY": 2470, "transferMaxY": 1849,
+
+    "trainingTransferMin": 1307.0, "trainingTransferMax": 2076.0,
+    "trainingTransferOriginY": 2680, "trainingTransferMaxY": 2305,
+
+    "hlOneMin": 65.0, "hlOneMax": 1100.0,
+    "hlOneOriginX": 1212, "hlOneMaxX": 1985,
+
+    "heightLossMin": 12.0, "heightLossMax": 346.0,
+    "heightLossOriginY": 1553, "heightLossMaxY": 894
+  },
+  "9-279_-_RATE_OF_CLIMB_AEO_MCP_80KT_ASF_ECS_OFF_AI_OFF_0.png": {
+
+    "oatMin": -40.0, "oatMax": 50.0,
+    "oatOriginX": 473, "oatMaxX": 1198,
+
+    "transferMin": 903, "transferMax": 15249,
+    "transferOriginY": 2298, "transferMaxY": 804,
+
+    "rocMin": -1000, "rocMax": 7000.0,
+    "rocOriginX": 1241, "rocMaxX": 1908
+  },
+  "9-280_-_RATE_OF_CLIMB_AEO_MCP_80KT_ASF_ECS_ON_AI_OFF_1.png": {
+
+    "oatMin": -40.0, "oatMax": 50.0,
+    "oatOriginX": 568, "oatMaxX": 1314,
+
+    "transferMin": 903, "transferMax": 12952,
+    "transferOriginY": 2346, "transferMaxY": 860,
+
+    "rocMin": -1000, "rocMax": 6000.0,
+    "rocOriginX": 1360, "rocMaxX": 2052
+  },
+  "9-281_-_RATE_OF_CLIMB_AEO_MCP_80KT_ASF_ECS_OFF_AI_ON_1.png": {
+
+    "oatMin": -40.0, "oatMax": 50.0,
+    "oatOriginX": 452, "oatMaxX": 1198,
+
+    "transferMin": 903, "transferMax": 14266,
+    "transferOriginY": 2350, "transferMaxY": 813,
+
+    "rocMin": -1000, "rocMax": 6500.0,
+    "rocOriginX": 1244, "rocMaxX": 1933
+  },
+  "9-282_-_RATE_OF_CLIMB_AEO_MCP_80KT_ASF_ECS_ON_AI_ON_0.png": {
+
+    "oatMin": -40.0, "oatMax": 50.0,
+    "oatOriginX": 570, "oatMaxX": 1314,
+
+    "transferMin": 903, "transferMax": 12038,
+    "transferOriginY": 2338, "transferMaxY": 861,
+
+    "rocMin": -1000, "rocMax": 6000.0,
+    "rocOriginX": 1362, "rocMaxX": 2050
+  },
+  "9-283_-_RATE_OF_CLIMB_AEO_MTOP_45KT_ASF_ECS_OFF_AI_OFF_0.png": {
+
+    "oatMin": -40.0, "oatMax": 50.0,
+    "oatOriginX": 450, "oatMaxX": 1198,
+
+    "transferMin": 1103, "transferMax": 16720,
+    "transferOriginY": 2293, "transferMaxY": 706,
+
+    "rocMin": -2000, "rocMax": 8000.0,
+    "rocOriginX": 1244, "rocMaxX": 1934
+  }
+}
