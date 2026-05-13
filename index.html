@@ -6,14 +6,18 @@
     <meta name="description" content="NH90 performance calculator" />
     <meta name="mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="black" />
-    <meta name="apple-mobile-web-app-title" content="nh90" />
+    <meta name="apple-mobile-web-app-title" content="NH90" />
+    <meta name="theme-color" content="#303030" />
+    <link rel="manifest" href="/CENTAURES/manifest.webmanifest" />
+    <link rel="icon" type="image/png" href="/CENTAURES/favicon.png" />
+    <link rel="apple-touch-icon" href="/CENTAURES/icons/icon-192.png" />
     <title>NH90 Performance Tool</title>
-    <link href="/CENTAURES/_app/immutable/entry/start.v1O94R6p.js" rel="modulepreload">
-		<link href="/CENTAURES/_app/immutable/chunks/Dce1_kq-.js" rel="modulepreload">
+    <link href="/CENTAURES/_app/immutable/entry/start.LjplKZQP.js" rel="modulepreload">
+		<link href="/CENTAURES/_app/immutable/chunks/DKOqM-C-.js" rel="modulepreload">
 		<link href="/CENTAURES/_app/immutable/chunks/Ctf7xPla.js" rel="modulepreload">
-		<link href="/CENTAURES/_app/immutable/chunks/D2f4pU74.js" rel="modulepreload">
+		<link href="/CENTAURES/_app/immutable/chunks/MGK9lg2L.js" rel="modulepreload">
 		<link href="/CENTAURES/_app/immutable/chunks/BaJysrmW.js" rel="modulepreload">
-		<link href="/CENTAURES/_app/immutable/entry/app.Dxl2wt0e.js" rel="modulepreload">
+		<link href="/CENTAURES/_app/immutable/entry/app.CviTX1bE.js" rel="modulepreload">
 		<link href="/CENTAURES/_app/immutable/chunks/CsDzlm78.js" rel="modulepreload">
 		<link href="/CENTAURES/_app/immutable/chunks/BPrUsYAT.js" rel="modulepreload">
 		<link href="/CENTAURES/_app/immutable/chunks/Ds-wQu1Y.js" rel="modulepreload">
@@ -29,7 +33,7 @@
     <div style="display: contents">
 			<script>
 				{
-					__sveltekit_vj9efk = {
+					__sveltekit_3jh2np = {
 						base: "/CENTAURES",
 						assets: "/CENTAURES"
 					};
@@ -37,11 +41,23 @@
 					const element = document.currentScript.parentElement;
 
 					Promise.all([
-						import("/CENTAURES/_app/immutable/entry/start.v1O94R6p.js"),
-						import("/CENTAURES/_app/immutable/entry/app.Dxl2wt0e.js")
+						import("/CENTAURES/_app/immutable/entry/start.LjplKZQP.js"),
+						import("/CENTAURES/_app/immutable/entry/app.CviTX1bE.js")
 					]).then(([kit, app]) => {
 						kit.start(app, element);
 					});
+
+					if ('serviceWorker' in navigator) {
+						const script_url = '/CENTAURES/service-worker.js';
+						const policy = globalThis?.window?.trustedTypes?.createPolicy(
+							'sveltekit-trusted-url',
+							{ createScriptURL(url) { return url; } }
+						);
+						const sanitised = policy?.createScriptURL(script_url) ?? script_url;
+						addEventListener('load', function () {
+							navigator.serviceWorker.register(sanitised);
+						});
+					}
 				}
 			</script>
 		</div>
