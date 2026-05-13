@@ -18,8 +18,8 @@ const config = {
     // copies index.html → 404.html so GH Pages serves the SPA shell on
     // direct hits to sub-routes (e.g. /m/<id>/configuration).
     adapter: adapter({
-      pages: 'build',
-      assets: 'build',
+      pages: 'docs',
+      assets: 'docs',
       fallback: 'index.html',
       precompress: false,
       strict: true,
