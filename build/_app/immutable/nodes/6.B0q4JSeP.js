@@ -1,0 +1,1 @@
+import{a as e,f as o}from"../chunks/BPrUsYAT.js";import{am as l}from"../chunks/Ctf7xPla.js";l();var p=o('<div class="placeholder svelte-177gs27"><p class="svelte-177gs27">Mission</p> <span class="svelte-177gs27">Phase 4 — atmosphere, payload solver, route legs</span></div>');function m(s){var a=p();e(s,a)}export{m as component};
