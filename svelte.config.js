@@ -4,7 +4,7 @@ import { vitePreprocess } from '@sveltejs/vite-plugin-svelte';
 // BASE_PATH is set by tools/deploy_pages.sh when building for GitHub Pages
 // (e.g. "/CENTAURES"). It must NOT have a trailing slash. Empty for local dev
 // + preview so `npm run dev` keeps serving at /.
-const BASE_PATH = process.env.BASE_PATH ?? '/CENTAURES';
+const BASE_PATH = process.env.BASE_PATH ?? (process.env.NODE_ENV === 'production' ? '/CENTAURES' : '');
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
