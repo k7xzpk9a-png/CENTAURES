@@ -1,1 +1,0 @@
-import{p as r}from"./QrRTSNe1.js";import{s as t}from"./CLx5OJL0.js";const e={get error(){return r.error},get params(){return r.params},get status(){return r.status},get url(){return r.url}};t.updated.check;const p=e;export{p};
