@@ -800,13 +800,13 @@
   "9-147_-_RATE_OF_CLIMB_AEO_MTOP_75KT_ECS_OFF_AI_OFF_0.png": {
 
     "oatMin": -40.0, "oatMax": 50.0,
-    "oatOriginX": 450, "oatMaxX": 1199,
+    "oatOriginX": 452, "oatMaxX": 1197,
 
     "transferMin": 919, "transferMax": 17703,
-    "transferOriginY": 2317, "transferMaxY": 708,
+    "transferOriginY": 2316, "transferMaxY": 706,
 
     "rocMin": -1000, "rocMax": 8000.0,
-    "rocOriginX": 1242, "rocMaxX": 1934
+    "rocOriginX": 1244, "rocMaxX": 1933
   },
   "9-148_-_RATE_OF_CLIMB_AEO_MTOP_75KT_ECS_ON_AI_OFF_1.png": {
 
