@@ -1118,5 +1118,298 @@
 
     "rocMin": -2000, "rocMax": 8000.0,
     "rocOriginX": 1244, "rocMaxX": 1934
+  },
+  "9-10_-_HEIGHT_LOSS_ECS_ON_AI_OFF_2.png": {
+
+    "oatMin": -40.0, "oatMax": 50.0,
+    "oatOriginX": 542, "oatMaxX": 1278,
+
+    "transferMin": 1345.0, "transferMax": 2076.0,
+    "transferOriginY": 2358, "transferMaxY": 1701,
+
+    "trainingTransferMin": 1345.0, "trainingTransferMax": 2076.0,
+    "trainingTransferOriginY": 2598, "trainingTransferMaxY": 2170,
+
+    "hlOneMin": 0.0, "hlOneMax": 1100.0,
+    "hlOneOriginX": 1326, "hlOneMaxX": 2104,
+
+    "heightLossMin": 12.0, "heightLossMax": 346.0,
+    "heightLossOriginY": 1502, "heightLossMaxY": 841
+  },
+  "9-11_-_HEIGHT_LOSS_ECS_OFF_AI_ON_2.png": {
+
+    "oatMin": -40.0, "oatMax": 50.0,
+    "oatOriginX": 425, "oatMaxX": 1161,
+
+    "transferMin": 1345.0, "transferMax": 2076.0,
+    "transferOriginY": 2378, "transferMaxY": 1765,
+
+    "trainingTransferMin": 1320.0, "trainingTransferMax": 2076.0,
+    "trainingTransferOriginY": 2630, "trainingTransferMaxY": 2100,
+
+    "hlOneMin": 0.0, "hlOneMax": 1100.0,
+    "hlOneOriginX": 1210, "hlOneMaxX": 1985,
+
+    "heightLossMin": 12.0, "heightLossMax": 346.0,
+    "heightLossOriginY": 1504, "heightLossMaxY": 844
+  },
+  "9-12_-_HEIGHT_LOSS_ECS_ON_AI_ON_2.png": {
+
+    "oatMin": -40.0, "oatMax": 50.0,
+    "oatOriginX": 544, "oatMaxX": 1280,
+
+    "transferMin": 1345.0, "transferMax": 2076.0,
+    "transferOriginY": 2394, "transferMaxY": 1765,
+
+    "trainingTransferMin": 1320.0, "trainingTransferMax": 2076.0,
+    "trainingTransferOriginY": 2672, "trainingTransferMaxY": 2226,
+
+    "hlOneMin": 0.0, "hlOneMax": 1100.0,
+    "hlOneOriginX": 1329, "hlOneMaxX": 2102,
+
+    "heightLossMin": 12.0, "heightLossMax": 346.0,
+    "heightLossOriginY": 1501, "heightLossMaxY": 842
+  },
+  "9-15_-_HEIGHT_LOSS_ASF_ECS_ON_AI_OFF_2.png": {
+
+    "oatMin": -40.0, "oatMax": 50.0,
+    "oatOriginX": 425, "oatMaxX": 1161,
+
+    "transferMin": 1345.0, "transferMax": 2076.0,
+    "transferOriginY": 2436, "transferMaxY": 1789,
+
+    "trainingTransferMin": 1345.0, "trainingTransferMax": 2076.0,
+    "trainingTransferOriginY": 2681, "trainingTransferMaxY": 2222,
+
+    "hlOneMin": 0.0, "hlOneMax": 1100.0,
+    "hlOneOriginX": 1209, "hlOneMaxX": 1985,
+
+    "heightLossMin": 12.0, "heightLossMax": 346.0,
+    "heightLossOriginY": 1554, "heightLossMaxY": 894
+  },
+  "9-16_-_HEIGHT_LOSS_ASF_ECS_OFF_AI_ON_2.png": {
+
+    "oatMin": -40.0, "oatMax": 50.0,
+    "oatOriginX": 544, "oatMaxX": 1280,
+
+    "transferMin": 1345.0, "transferMax": 2076.0,
+    "transferOriginY": 2426, "transferMaxY": 1814,
+
+    "trainingTransferMin": 1320.0, "trainingTransferMax": 2076.0,
+    "trainingTransferOriginY": 2721, "trainingTransferMaxY": 2149,
+
+    "hlOneMin": 65.0, "hlOneMax": 1100.0,
+    "hlOneOriginX": 1329, "hlOneMaxX": 2102,
+
+    "heightLossMin": 12.0, "heightLossMax": 346.0,
+    "heightLossOriginY": 1553, "heightLossMaxY": 892
+  },
+  "9-284_-_RATE_OF_CLIMB_AEO_MTOP_45KT_ASF_ECS_ON_AI_OFF_1.png": {
+
+    "oatMin": -40.0, "oatMax": 50.0,
+    "oatOriginX": 569, "oatMaxX": 1316,
+
+    "transferMin": 1103, "transferMax": 14431,
+    "transferOriginY": 2274, "transferMaxY": 744,
+
+    "rocMin": -2000, "rocMax": 7000.0,
+    "rocOriginX": 1361, "rocMaxX": 2052
+  },
+  "9-285_-_RATE_OF_CLIMB_AEO_MTOP_45KT_ASF_ECS_OFF_AI_ON_1.png": {
+
+    "oatMin": -40.0, "oatMax": 50.0,
+    "oatOriginX": 450, "oatMaxX": 1198,
+
+    "transferMin": 1103, "transferMax": 15693,
+    "transferOriginY": 2285, "transferMaxY": 708,
+
+    "rocMin": -2000, "rocMax": 8000.0,
+    "rocOriginX": 1244, "rocMaxX": 1933
+  },
+  "9-286_-_RATE_OF_CLIMB_AEO_MTOP_45KT_ASF_ECS_ON_AI_ON_0.png": {
+
+    "oatMin": -40.0, "oatMax": 50.0,
+    "oatOriginX": 569, "oatMaxX": 1314,
+
+    "transferMin": 1103, "transferMax": 13326,
+    "transferOriginY": 2265, "transferMaxY": 760,
+
+    "rocMin": -2000, "rocMax": 7000.0,
+    "rocOriginX": 1362, "rocMaxX": 2052
+  },
+  "9-295_-_RATE_OF_CLIMB_AEO_MTOP_75KT_ASF_ECS_OFF_AI_OFF_0.png": {
+
+    "oatMin": -40.0, "oatMax": 50.0,
+    "oatOriginX": 450, "oatMaxX": 1197,
+
+    "transferMin": 919, "transferMax": 16997,
+    "transferOriginY": 2317, "transferMaxY": 776,
+
+    "rocMin": -1000, "rocMax": 8000.0,
+    "rocOriginX": 1242, "rocMaxX": 1934
+  },
+  "9-296_-_RATE_OF_CLIMB_AEO_MTOP_75KT_ASF_ECS_ON_AI_OFF_0.png": {
+
+    "oatMin": -40.0, "oatMax": 50.0,
+    "oatOriginX": 569, "oatMaxX": 1316,
+
+    "transferMin": 919, "transferMax": 14660,
+    "transferOriginY": 2305, "transferMaxY": 820,
+
+    "rocMin": -1000, "rocMax": 7000.0,
+    "rocOriginX": 1362, "rocMaxX": 2052
+  },
+  "9-297_-_RATE_OF_CLIMB_AEO_MTOP_75KT_ASF_ECS_OFF_AI_ON_0.png": {
+
+    "oatMin": -40.0, "oatMax": 50.0,
+    "oatOriginX": 449, "oatMaxX": 1198,
+
+    "transferMin": 919, "transferMax": 16001,
+    "transferOriginY": 2310, "transferMaxY": 778,
+
+    "rocMin": -1000, "rocMax": 8000.0,
+    "rocOriginX": 1242, "rocMaxX": 1933
+  },
+  "9-298_-_RATE_OF_CLIMB_AEO_MTOP_75KT_ASF_ECS_ON_AI_ON_1.png": {
+
+    "oatMin": -40.0, "oatMax": 50.0,
+    "oatOriginX": 569, "oatMaxX": 1317,
+
+    "transferMin": 919, "transferMax": 13637,
+    "transferOriginY": 2302, "transferMaxY": 836,
+
+    "rocMin": -1000, "rocMax": 6500.0,
+    "rocOriginX": 1361, "rocMaxX": 2050
+  },
+  "9-300_-_RATE_OF_CLIMB_OEI_MCP_80KT_ASF_ECS_OFF_AI_OFF_0.png": {
+
+    "oatMin": -40.0, "oatMax": 50.0,
+    "oatOriginX": 592, "oatMaxX": 1316,
+
+    "transferMin": 1083, "transferMax": 15142,
+    "transferOriginY": 2276, "transferMaxY": 808,
+
+    "rocMin": -1500, "rocMax": 2500.0,
+    "rocOriginX": 1360, "rocMaxX": 2028
+  },
+  "9-301_-_RATE_OF_CLIMB_OEI_MCP_80KT_ASF_ECS_ON_AI_OFF_0.png": {
+
+    "oatMin": -40.0, "oatMax": 50.0,
+    "oatOriginX": 452, "oatMaxX": 1197,
+
+    "transferMin": 1083, "transferMax": 13035,
+    "transferOriginY": 2318, "transferMaxY": 845,
+
+    "rocMin": -1500, "rocMax": 2500.0,
+    "rocOriginX": 1244, "rocMaxX": 1933
+  },
+  "9-302_-_RATE_OF_CLIMB_OEI_MCP_80KT_ASF_ECS_OFF_AI_ON_0.png": {
+
+    "oatMin": -40.0, "oatMax": 50.0,
+    "oatOriginX": 569, "oatMaxX": 1317,
+
+    "transferMin": 1083, "transferMax": 14147,
+    "transferOriginY": 2338, "transferMaxY": 926,
+
+    "rocMin": -1500, "rocMax": 2500.0,
+    "rocOriginX": 1362, "rocMaxX": 2050
+  },
+  "9-303_-_RATE_OF_CLIMB_OEI_MCP_80KT_ASF_ECS_ON_AI_ON_0.png": {
+
+    "oatMin": -40.0, "oatMax": 50.0,
+    "oatOriginX": 452, "oatMaxX": 1197,
+
+    "transferMin": 1083, "transferMax": 12002,
+    "transferOriginY": 2320, "transferMaxY": 972,
+
+    "rocMin": -1500, "rocMax": 2500.0,
+    "rocOriginX": 1242, "rocMaxX": 1932
+  },
+  "9-320_-_RATE_OF_CLIMB_OEI_LOW_80KT_ASF_ECS_OFF_AI_OFF_0.png": {
+
+    "oatMin": -40.0, "oatMax": 50.0,
+    "oatOriginX": 568, "oatMaxX": 1316,
+
+    "transferMin": 1445, "transferMax": 12851,
+    "transferOriginY": 2225, "transferMaxY": 816,
+
+    "rocMin": -1500, "rocMax": 3000.0,
+    "rocOriginX": 1361, "rocMaxX": 2053
+  },
+  "9-321_-_RATE_OF_CLIMB_OEI_LOW_80KT_ASF_ECS_OFF_AI_ON_1.png": {
+
+    "oatMin": -40.0, "oatMax": 50.0,
+    "oatOriginX": 452, "oatMaxX": 1197,
+
+    "transferMin": 1445, "transferMax": 12017,
+    "transferOriginY": 2226, "transferMaxY": 921,
+
+    "rocMin": -1500, "rocMax": 3000.0,
+    "rocOriginX": 1244, "rocMaxX": 1933
+  },
+  "9-322_-_RATE_OF_CLIMB_OEI_LOW_45KT_ASF_ECS_OFF_AI_OFF_0.png": {
+
+    "oatMin": -40.0, "oatMax": 50.0,
+    "oatOriginX": 570, "oatMaxX": 1316,
+
+    "transferMin": 1445, "transferMax": 13657,
+    "transferOriginY": 2225, "transferMaxY": 718,
+
+    "rocMin": -2500, "rocMax": 3000.0,
+    "rocOriginX": 1361, "rocMaxX": 2052
+  },
+  "9-323_-_RATE_OF_CLIMB_OEI_LOW_45KT_ASF_ECS_OFF_AI_ON_1.png": {
+
+    "oatMin": -40.0, "oatMax": 50.0,
+    "oatOriginX": 450, "oatMaxX": 1197,
+
+    "transferMin": 1445, "transferMax": 12753,
+    "transferOriginY": 2228, "transferMaxY": 833,
+
+    "rocMin": -2500, "rocMax": 3000.0,
+    "rocOriginX": 1242, "rocMaxX": 1934
+  },
+  "9-330_-_RATE_OF_CLIMB_TRAINING_OEI_MCP_80KT_ASF_ECS_OFF_AI_OFF_0.png": {
+
+    "oatMin": -40.0, "oatMax": 50.0,
+    "oatOriginX": 569, "oatMaxX": 1316,
+
+    "transferMin": 1288, "transferMax": 12275,
+    "transferOriginY": 2297, "transferMaxY": 937,
+
+    "rocMin": -1750, "rocMax": 1750.0,
+    "rocOriginX": 1360, "rocMaxX": 2050
+  },
+  "9-350_-_RATE_OF_CLIMB_TRAINING_OEI_LOW_80KT_ASF_ECS_OFF_AI_OFF_0.png": {
+
+    "oatMin": -40.0, "oatMax": 50.0,
+    "oatOriginX": 570, "oatMaxX": 1314,
+
+    "transferMin": 870, "transferMax": 10637,
+    "transferOriginY": 2321, "transferMaxY": 784,
+
+    "rocMin": -2000, "rocMax": 2500.0,
+    "rocOriginX": 1362, "rocMaxX": 2050
+  },
+  "9-354_-_RATE_OF_CLIMB_TRAINING_OEI_LOW_45KT_ASF_ECS_OFF_AI_OFF_1.png": {
+
+    "oatMin": -40.0, "oatMax": 50.0,
+    "oatOriginX": 569, "oatMaxX": 1314,
+
+    "transferMin": 1726, "transferMax": 11339,
+    "transferOriginY": 2212, "transferMaxY": 821,
+
+    "rocMin": -2500, "rocMax": 2500.0,
+    "rocOriginX": 1361, "rocMaxX": 2050
+  },
+  "9-88_-_HOVER_OGE_AEO_MTOP_IPS_ON_BEFORE_ICING_ECS_ON_AI_ON.png": {
+    "graphOriginX": 610,
+    "maxXValueX": 1965,
+    "graphOriginY": 2426,
+    "maxYValueY": 697,
+    "massMin": 7000.0,
+    "massMax": 12000.0,
+    "altitudeMin": -2000.0,
+    "altitudeMax": 20000.0
   }
 }
