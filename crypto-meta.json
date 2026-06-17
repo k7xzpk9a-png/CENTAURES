@@ -1,8 +1,29 @@
 {
-  "v": 1,
+  "v": 2,
   "kdf": "PBKDF2",
   "hash": "SHA-256",
   "iterations": 310000,
-  "salt": "J1dkrkYDnWQ4T8f6RaoyYA==",
-  "check": "RU5DMevd/W2B0gyQJsPpFSYkjapchCooU46bTfXTU86OmRzBkTrgxSk4nVY4cA=="
+  "check": "RU5DMeT8XHjniUDvlF40Jg7/raWt/v2iSokcLWFBMT6pMoskEqd4tleTIR8s3A==",
+  "groups": [
+    {
+      "label": "4RHFS",
+      "salt": "Roce44u92Bg/hRsJ5Ojzuw==",
+      "dek": "RU5DMfHwEbDzvVE1XAYC2ZQ9/sl+xpwly4IpOxxYCCPjLfe8VK3byp7KrxJ7e2w7Z+5+v6NwFotI8YQ48f+YAQ=="
+    },
+    {
+      "label": "1RHC",
+      "salt": "6dpyInkIWfxtOpcY4S2GxQ==",
+      "dek": "RU5DMXqAuYQAIXmie16gt+hzJmSWxZISHKzIaGKEDOv3Pk+vwShG1USZB7bv32KftzocsRVN/gZecINLOA5Q0g=="
+    },
+    {
+      "label": "3RHC",
+      "salt": "UNYxH8W8XIIGECPcuwMTEw==",
+      "dek": "RU5DMVt56jYg694oJGyCvItz2KQ6QtlkFRGN08/RQPDtJeHefPzbS3CYXlPTLtuY+8Sc4m6Kl3tY8L8Pf4EpZA=="
+    },
+    {
+      "label": "5RHC",
+      "salt": "JnuU1ImGV2wpitqVULa6nw==",
+      "dek": "RU5DMcUxJvQEKAKuHobHNuzS6YuCWGbWFeUJe6D/c7EFpqS2RJSI+Q+oHIpkinF8YgLL7I/C+d6gvcguoX3bZA=="
+    }
+  ]
 }
