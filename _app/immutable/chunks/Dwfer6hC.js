@@ -1,0 +1,1 @@
+import{s as a,m as t,g as e}from"./DSrlzNeL.js";const i=10600,r=11e3,s="mtowDerogation";function g(o){return e(t(o,s),!1)}function c(o){return g(o)?r:i}function D(o,n){a(t(o,s),n)}export{r as M,i as a,c as g,g as i,D as s};
