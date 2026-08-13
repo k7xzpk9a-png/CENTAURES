@@ -1,1 +1,1 @@
-export const env={}
+export const env={"PUBLIC_REPO_DIR":"/home/yorian/Projects/upload-centaures"}
